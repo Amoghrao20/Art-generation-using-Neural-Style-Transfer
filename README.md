@@ -1,1 +1,1 @@
-# Art-generayion-using-Neural-Style-Transfer
+# Art-generation-using-Neural-Style-Transfer
